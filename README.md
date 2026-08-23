@@ -1,28 +1,230 @@
-<h1 align="center">Hi 👋, I'm Krish Dhiman</h1>
-<h3 align="center">I'm a skilled web developer with expertise in modern web technologies, frontend and backend development.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishdhimanofficial" alt="krishdhimanofficial" /></a> </p>
+👋 Hi, I'm Krish Dhiman
 
-- 🔭 I’m currently working on **Due Dilligence Paltform**
+Full Stack Developer · MERN · Next.js · AI
 
-- 🌱 I’m currently learning **Python,AI**
+I build modern web applications, developer tools, and AI-powered products with a focus on clean architecture, useful UX, and production-ready engineering.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-xi-one-54.vercel.app](https://portfolio-xi-one-54.vercel.app)
-
-- 💬 Ask me about **MERN Stack Development**
-
-- 📫 How to reach me **krrishdhiman841@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-xi-one-54.vercel.app/resume.pdf](https://portfolio-xi-one-54.vercel.app/resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://portfolio-xi-one-54.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://portfolio-xi-one-54.vercel.app" height="30" width="40" /></a>
-<a href="https://twitter.com/krrishdhiman5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krrishdhiman5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krrishdhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krrishdhiman" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/KrishDhimanOfficial">
+    <img src="https://img.shields.io/badge/GitHub-KrishDhimanOfficial-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krrishdhiman">
+    <img src="https://img.shields.io/badge/LinkedIn-Krish%20Dhiman-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.npmjs.com/~apexkrrish">
+    <img src="https://img.shields.io/badge/npm-apexkrrish-CB3837?style=for-the-badge&logo=npm" alt="npm"/>
+  </a>
+  <a href="https://portfolio-xi-one-54.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishdhimanofficial&show_icons=true&locale=en&layout=compact" alt="krishdhimanofficial" /></p>
+🚀 About Me
+
+🔭 Currently working on a Due Diligence Platform
+
+🌱 Currently learning Python & AI
+
+💻 Ask me about MERN Stack Development
+
+🧠 Interested in AI, SaaS, developer tools, and scalable web applications
+
+📄 View my resume
+
+📫 krrishdhiman841@gmail.com
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/KrishDhimanOfficial">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KrishDhimanOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Krish's GitHub stats"/>
+</a>
+<a href="https://github.com/KrishDhimanOfficial">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishDhimanOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/KrishDhimanOfficial">
+  <img src="https://streak-stats.demolab.com/?user=KrishDhimanOfficial&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/KrishDhimanOfficial">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishDhimanOfficial&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</a>
+
+</div>
+
+⭐ Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+🛠️ xpresso-cli
+
+A fast and interactive CLI tool for scaffolding Node.js applications.
+
+HTML · CLI · Node.js
+
+<a href="https://github.com/KrishDhimanOfficial/xpresso-cli">
+  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/xpresso-cli?style=flat-square&logo=github" alt="xpresso-cli stars"/>
+</a>
+
+</td>
+<td width="50%">
+
+🤖 RecruitFlow AI
+
+AI-powered recruitment automation built with the MERN stack, Google Workspace, and Gemini AI.
+
+TypeScript · MERN · AI
+
+<a href="https://github.com/KrishDhimanOfficial/AI_Recuritment_Email_Bot">
+  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/AI_Recuritment_Email_Bot?style=flat-square&logo=github" alt="RecruitFlow AI stars"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🖐️ Gesture Core
+
+Real-time hand gesture recognition using MediaPipe and computer vision to control cursor actions.
+
+TypeScript · MERN · Computer Vision
+
+<a href="https://github.com/KrishDhimanOfficial/Gesture-Recognizer">
+  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/Gesture-Recognizer?style=flat-square&logo=github" alt="Gesture Recognizer stars"/>
+</a>
+
+</td>
+<td width="50%">
+
+🤖 StackBot AI
+
+A local AI chatbot built with Next.js and Ollama with Markdown support, code highlighting, and chat persistence.
+
+TypeScript · Next.js · Ollama
+
+<a href="https://github.com/KrishDhimanOfficial/StackBot_AI">
+  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/StackBot_AI?style=flat-square&logo=github" alt="StackBot AI stars"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🎨 MyGridCSS
+
+A lightweight CSS framework focused on simple and responsive grid layouts.
+
+CSS · Frontend
+
+<a href="https://github.com/KrishDhimanOfficial/GridCSS---A-CSS-Framework">
+  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/GridCSS---A-CSS-Framework?style=flat-square&logo=github" alt="MyGridCSS stars"/>
+</a>
+
+</td>
+<td width="50%">
+
+📦 Inventory Management App
+
+A web-based application for managing inventory, stock levels, purchases, sales, and deliveries.
+
+JavaScript · Full Stack
+
+<a href="https://github.com/KrishDhimanOfficial/Inventory_management_app">
+  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/Inventory_management_app?style=flat-square&logo=github" alt="Inventory Management stars"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+🧰 Tech Stack
+
+Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" alt="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"/>
+</p>
+
+Backend & Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis"/>
+</p>
+
+DevOps & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman"/>
+</p>
+
+🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://portfolio-xi-one-54.vercel.app/">Portfolio</a>
+ • 
+<a href="https://www.linkedin.com/in/krrishdhiman">LinkedIn</a>
+ • 
+<a href="https://twitter.com/krrishdhiman5">Twitter / X</a>
+ • 
+<a href="https://www.npmjs.com/~apexkrrish">npm</a>
+ • 
+<a href="mailto:krrishdhiman841@gmail.com">Email</a>
+
+</div>
+
+<div align="center">
+
+💡 Build. Learn. Ship. Repeat.
+
+<img src="https://komarev.com/ghpvc/?username=KrishDhimanOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
