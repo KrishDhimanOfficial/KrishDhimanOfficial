@@ -1,8 +1,8 @@
 <div align="center">
 
-👋 Hi, I'm Krish Dhiman
+# 👋 Hi, I'm Krish Dhiman
 
-Full Stack Developer · MERN · Next.js · AI
+### Full Stack Developer · MERN · Next.js · AI
 
 I build modern web applications, developer tools, and AI-powered products with a focus on clean architecture, useful UX, and production-ready engineering.
 
@@ -23,50 +23,68 @@ I build modern web applications, developer tools, and AI-powered products with a
 
 </div>
 
-🚀 About Me
+---
 
-🔭 Currently working on a Due Diligence Platform
+## 🚀 About Me
 
-🌱 Currently learning Python & AI
+* 🔭 Currently working on a **Due Diligence Platform**
+* 🌱 Currently learning **Python & AI**
+* 💻 Ask me about **MERN Stack Development**
+* 🧠 Interested in **AI, SaaS, developer tools, and scalable web applications**
+* 📄 [View my resume](https://portfolio-xi-one-54.vercel.app/resume.pdf)
+* 📫 **[krrishdhiman841@gmail.com](mailto:krrishdhiman841@gmail.com)**
 
-💻 Ask me about MERN Stack Development
+---
 
-🧠 Interested in AI, SaaS, developer tools, and scalable web applications
-
-📄 View my resume
-
-📫 krrishdhiman841@gmail.com
-
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/KrishDhimanOfficial">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KrishDhimanOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Krish's GitHub stats"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=KrishDhimanOfficial&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="Krish's GitHub stats"
+  />
 </a>
+
 <a href="https://github.com/KrishDhimanOfficial">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishDhimanOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishDhimanOfficial&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    alt="Top languages"
+  />
 </a>
 
 <br/>
 
 <a href="https://github.com/KrishDhimanOfficial">
-  <img src="https://streak-stats.demolab.com/?user=KrishDhimanOfficial&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=KrishDhimanOfficial&hide_border=true&theme=transparent"
+    alt="GitHub contribution streak"
+  />
 </a>
 
 </div>
 
-📈 Contribution Activity
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/KrishDhimanOfficial">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishDhimanOfficial&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KrishDhimanOfficial&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+  />
 </a>
 
 </div>
 
-⭐ Featured Projects
+---
+
+## ⭐ Featured Projects
 
 <div align="center">
 
@@ -74,27 +92,34 @@ I build modern web applications, developer tools, and AI-powered products with a
 <tr>
 <td width="50%">
 
-🛠️ xpresso-cli
+### 🛠️ xpresso-cli
 
 A fast and interactive CLI tool for scaffolding Node.js applications.
 
-HTML · CLI · Node.js
+**HTML · CLI · Node.js**
 
 <a href="https://github.com/KrishDhimanOfficial/xpresso-cli">
-  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/xpresso-cli?style=flat-square&logo=github" alt="xpresso-cli stars"/>
+  <img
+    src="https://img.shields.io/github/stars/KrishDhimanOfficial/xpresso-cli?style=flat-square&logo=github"
+    alt="xpresso-cli stars"
+  />
 </a>
 
 </td>
+
 <td width="50%">
 
-🤖 RecruitFlow AI
+### 🤖 RecruitFlow AI
 
 AI-powered recruitment automation built with the MERN stack, Google Workspace, and Gemini AI.
 
-TypeScript · MERN · AI
+**TypeScript · MERN · AI**
 
 <a href="https://github.com/KrishDhimanOfficial/AI_Recuritment_Email_Bot">
-  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/AI_Recuritment_Email_Bot?style=flat-square&logo=github" alt="RecruitFlow AI stars"/>
+  <img
+    src="https://img.shields.io/github/stars/KrishDhimanOfficial/AI_Recuritment_Email_Bot?style=flat-square&logo=github"
+    alt="RecruitFlow AI stars"
+  />
 </a>
 
 </td>
@@ -103,27 +128,34 @@ TypeScript · MERN · AI
 <tr>
 <td width="50%">
 
-🖐️ Gesture Core
+### 🖐️ Gesture Core
 
 Real-time hand gesture recognition using MediaPipe and computer vision to control cursor actions.
 
-TypeScript · MERN · Computer Vision
+**TypeScript · MERN · Computer Vision**
 
 <a href="https://github.com/KrishDhimanOfficial/Gesture-Recognizer">
-  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/Gesture-Recognizer?style=flat-square&logo=github" alt="Gesture Recognizer stars"/>
+  <img
+    src="https://img.shields.io/github/stars/KrishDhimanOfficial/Gesture-Recognizer?style=flat-square&logo=github"
+    alt="Gesture Recognizer stars"
+  />
 </a>
 
 </td>
+
 <td width="50%">
 
-🤖 StackBot AI
+### 🤖 StackBot AI
 
 A local AI chatbot built with Next.js and Ollama with Markdown support, code highlighting, and chat persistence.
 
-TypeScript · Next.js · Ollama
+**TypeScript · Next.js · Ollama**
 
 <a href="https://github.com/KrishDhimanOfficial/StackBot_AI">
-  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/StackBot_AI?style=flat-square&logo=github" alt="StackBot AI stars"/>
+  <img
+    src="https://img.shields.io/github/stars/KrishDhimanOfficial/StackBot_AI?style=flat-square&logo=github"
+    alt="StackBot AI stars"
+  />
 </a>
 
 </td>
@@ -132,27 +164,34 @@ TypeScript · Next.js · Ollama
 <tr>
 <td width="50%">
 
-🎨 MyGridCSS
+### 🎨 MyGridCSS
 
 A lightweight CSS framework focused on simple and responsive grid layouts.
 
-CSS · Frontend
+**CSS · Frontend**
 
 <a href="https://github.com/KrishDhimanOfficial/GridCSS---A-CSS-Framework">
-  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/GridCSS---A-CSS-Framework?style=flat-square&logo=github" alt="MyGridCSS stars"/>
+  <img
+    src="https://img.shields.io/github/stars/KrishDhimanOfficial/GridCSS---A-CSS-Framework?style=flat-square&logo=github"
+    alt="MyGridCSS stars"
+  />
 </a>
 
 </td>
+
 <td width="50%">
 
-📦 Inventory Management App
+### 📦 Inventory Management App
 
 A web-based application for managing inventory, stock levels, purchases, sales, and deliveries.
 
-JavaScript · Full Stack
+**JavaScript · Full Stack**
 
 <a href="https://github.com/KrishDhimanOfficial/Inventory_management_app">
-  <img src="https://img.shields.io/github/stars/KrishDhimanOfficial/Inventory_management_app?style=flat-square&logo=github" alt="Inventory Management stars"/>
+  <img
+    src="https://img.shields.io/github/stars/KrishDhimanOfficial/Inventory_management_app?style=flat-square&logo=github"
+    alt="Inventory Management stars"
+  />
 </a>
 
 </td>
@@ -161,9 +200,11 @@ JavaScript · Full Stack
 
 </div>
 
-🧰 Tech Stack
+---
 
-Frontend
+## 🧰 Tech Stack
+
+### Frontend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
@@ -176,7 +217,7 @@ Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"/>
 </p>
 
-Backend & Databases
+### Backend & Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
@@ -187,7 +228,7 @@ Backend & Databases
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" alt="Redis"/>
 </p>
 
-DevOps & Tools
+### DevOps & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
@@ -197,34 +238,42 @@ DevOps & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman"/>
 </p>
 
-🐍 Contribution Graph
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img
+src="https://raw.githubusercontent.com/KrishDhimanOfficial/KrishDhimanOfficial/output/github-contribution-grid-snake.svg"
+alt="GitHub contribution snake animation"
+/>
 
 </div>
 
-🤝 Connect With Me
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://portfolio-xi-one-54.vercel.app/">Portfolio</a>
- • 
-<a href="https://www.linkedin.com/in/krrishdhiman">LinkedIn</a>
- • 
-<a href="https://twitter.com/krrishdhiman5">Twitter / X</a>
- • 
-<a href="https://www.npmjs.com/~apexkrrish">npm</a>
- • 
-<a href="mailto:krrishdhiman841@gmail.com">Email</a>
+ •  <a href="https://www.linkedin.com/in/krrishdhiman">LinkedIn</a>
+ •  <a href="https://x.com/KRRISHDHIMAN5">Twitter / X</a>
+ •  <a href="https://www.npmjs.com/~apexkrrish">npm</a>
+ •  <a href="mailto:krrishdhiman841@gmail.com">Email</a>
 
 </div>
 
+---
+
 <div align="center">
 
-💡 Build. Learn. Ship. Repeat.
+### 💡 Build. Learn. Ship. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=KrishDhimanOfficial&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<img
+src="https://komarev.com/ghpvc/?username=KrishDhimanOfficial&label=Profile%20Views&color=0e75b6&style=flat"
+alt="Profile views"
+/>
 
 </div>
